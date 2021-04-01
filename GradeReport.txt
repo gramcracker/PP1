@@ -1,0 +1,21 @@
+Andrew Miller                  87.50 89.00 65.75 37.00 98.50  Average: 75.55, Letter grade: C
+John Doe                       86.00 88.00 85.25 90.00 95.00  Average: 88.85, Letter grade: B
+John Smith                     52.00 82.00 79.00 88.50 85.00  Average: 77.30, Letter grade: C
+Jane Deer                      90.00 93.00 91.00 92.75 94.00  Average: 92.15, Letter grade: A
+William Clinton                95.00 97.00 95.75 90.00 92.00  Average: 93.95, Letter grade: A
+George Jones                   89.00 81.50 75.00 85.25 88.00  Average: 83.75, Letter grade: B
+Sarah White                    75.50 78.00 85.00 88.00 84.00  Average: 82.10, Letter grade: B
+Bill Able                      88.00 90.00 86.75 91.00 93.50  Average: 89.85, Letter grade: B
+Larry Brown                    99.00 95.00 98.00 96.50 97.00  Average: 97.10, Letter grade: A
+Amanda Ernst                   76.00 79.50 77.00 82.00 84.25  Average: 79.75, Letter grade: C
+Richard Farmer                 84.75 87.00 80.00 85.00 86.00  Average: 84.55, Letter grade: B
+Sam Green                      87.00 91.75 85.00 88.00 90.00  Average: 88.35, Letter grade: B
+Paula Hamilton                 98.00 100.00 97.50 95.00 98.50  Average: 97.80, Letter grade: A
+Jesus Javiar                   77.50 82.00 85.00 78.00 86.00  Average: 81.70, Letter grade: B
+Christy King                   86.00 89.25 92.00 90.00 94.75  Average: 90.40, Letter grade: A
+Bob Bush                       70.00 75.50 77.00 79.00 81.25  Average: 76.55, Letter grade: C
+Jerry Landers                  95.50 97.00 96.00 92.75 94.00  Average: 95.05, Letter grade: A
+Sally Moore                    97.00 99.00 98.25 94.00 99.00  Average: 97.45, Letter grade: A
+Nancy Nadler                   91.00 93.25 90.00 89.00 92.50  Average: 91.15, Letter grade: A
+Tina Templar                   85.00 82.00 88.75 84.00 90.00  Average: 85.95, Letter grade: B
+Overall Average: 87.46, Highest Grade: 100.00
